@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sneaky-x
 - 👀 I’m interested in Java / PHP / JS 'n' SQL ...
-- 🌱 I’m currently learning Web Desiginin..
+- 🌱 I’m currently learning Web Design
 - 📫 How to reach me - Simply Text Me...
   
 
